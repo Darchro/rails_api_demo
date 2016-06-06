@@ -36,6 +36,8 @@ gem 'pundit'
 
 gem 'kaminari'
 
+gem 'faraday'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
